@@ -1,8 +1,8 @@
 # ¡Hola! Soy Kevin Garzon 👋
 
-🚀 **Estudiante de Ingeniería de Software (6° Semestre) | Bogotá, Colombia**
+🚀 **Estudiante de Ingeniería de Software (7° Semestre) | Bogotá, Colombia**
 
-Me apasiona transformar lógica compleja en código limpio, robusto y altamente escalable. Estoy enfocado en el desarrollo **Backend**, el diseño de sistemas utilizando arquitecturas limpias y la optimización de procesos, con un sólido manejo de herramientas de desarrollo asistido por IA.
+Me apasiona transformar lógica compleja en código limpio, robusto y altamente escalable. Estoy enfocado en el desarrollo Backend, el diseño de sistemas utilizando arquitecturas limpias y la optimización de procesos, con un sólido manejo de herramientas de desarrollo asistido por IA.
 
 ---
 
@@ -36,5 +36,5 @@ Me apasiona transformar lógica compleja en código limpio, robusto y altamente 
 
 ### 🤝 Conectemos
 
-* 💼 **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil) *(Asegúrate de cambiar esto por tu enlace real)*
+* 💼 **LinkedIn:** [linkedin.com/in/tu-perfil]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/kevin-garzon07560/)) *
 * ⚡ **Dato curioso:** Puedo estructurar un sistema modular asíncrono con testing estricto y debatir sobre las mejores mecánicas competitivas de la cuarta generación de Pokémon en la misma tarde.
