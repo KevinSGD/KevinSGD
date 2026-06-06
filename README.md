@@ -25,15 +25,6 @@ Me apasiona transformar lógica compleja en código limpio, robusto y altamente 
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinSGD&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSGD&layout=compact&theme=tokyonight" alt="Lenguajes más usados" width="48%" />
-</p>
-
----
-
 ### 🤝 Conectemos
 
 * 💼 **LinkedIn:** [linkedin.com/in/tu-perfil]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/kevin-garzon07560/)) *
