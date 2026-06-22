@@ -65,3 +65,60 @@ Disponible para  →  Remoto y presencial en Bogotá
 
 API REST de calidad profesional construida bajo principios estrictos de **Clean Architecture**. Integra de forma asíncrona la PokéAPI con caché local, genera brackets algorítmicos de eliminación directa y cuenta con una suite de pruebas completamente automatizada.
 
+
+[![Ver Repositorio](https://img.shields.io/badge/Ver_Repositorio-181717?style=flat&logo=github&logoColor=white)](TU_LINK_AQUÍ)
+
+---
+
+### ⚡ Pokédex Estratégica & Simulador de Daño — Edición Kanto
+> *Frontend interactivo · Vue 3 · 100% estático · Mobile-First*
+
+Aplicación web completamente autónoma con buscador reactivo y autocompletado local para los 151 Pokémon de primera generación, y una calculadora de daño competitivo que procesa tipos elementales, estadísticas base y potencia de movimientos en tiempo real.
+
+
+[![Demo en Vivo](https://img.shields.io/badge/Demo_en_Vivo-00C853?style=flat&logo=netlify&logoColor=white)](https://pokedexestrategica.netlify.app/)
+
+---
+
+### 📊 OptiLab — Optimizador de Horarios Académicos
+> *Optimización combinatoria · Python · OR-Tools*
+
+Sistema de satisfacción de restricciones (CSP) que genera automáticamente horarios académicos libres de conflictos, considerando disponibilidad docente, aulas y franjas horarias de forma simultánea. Redujo un proceso manual de varias horas a segundos de ejecución automática.
+
+
+---
+
+## Principios con los que trabajo
+
+```python
+principios = {
+    "arquitectura":  "Clean Architecture sobre conveniencia",
+    "pruebas":       "La cobertura es un contrato, no una métrica",
+    "commits":       "Conventional Commits, siempre",
+    "flujo_ia":      "Colaboración agéntica con Claude Code",
+    "mentalidad":    "Entender el problema antes de tocar el teclado",
+}
+```
+
+---
+
+## Estadísticas de GitHub
+
+<div align="center">
+
+![Estadísticas de Kevin](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&locale=es)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&locale=es)
+
+</div>
+
+---
+
+<div align="center">
+
+**Inglés B2 · Disponible para prácticas remotas y presenciales · Bogotá, Colombia**
+
+*"Construye cosas que resuelvan problemas reales, o no las construyas."*
+
+</div>
+
