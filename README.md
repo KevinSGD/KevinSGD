@@ -27,5 +27,5 @@ Me apasiona transformar lógica compleja en código limpio, robusto y altamente 
 
 ###  Conectemos
 
-*  **LinkedIn:**([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/kevin-garzon07560/)) *
+*  **LinkedIn:**([https://www.linkedin.com/in/kevin-garzon07560/]) *
 
