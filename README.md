@@ -66,7 +66,7 @@ Disponible para  →  Remoto y presencial en Bogotá
 API REST de calidad profesional construida bajo principios estrictos de **Clean Architecture**. Integra de forma asíncrona la PokéAPI con caché local, genera brackets algorítmicos de eliminación directa y cuenta con una suite de pruebas completamente automatizada.
 
 
-[![Ver Repositorio](https://img.shields.io/badge/Ver_Repositorio-181717?style=flat&logo=github&logoColor=white)](TU_LINK_AQUÍ)
+[![Ver Repositorio](https://img.shields.io/badge/Ver_Repositorio-181717?style=flat&logo=github&logoColor=white)](https://github.com/KevinSGD/pokemon-tournament-api)
 
 ---
 
@@ -98,8 +98,6 @@ principios = {
 
 <div align="center">
 
-![Estadísticas de Kevin](https://github-readme-stats.vercel.app/api?username=KevinSGD&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&locale=es)
-
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSGD&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&locale=es)
 
 </div>
@@ -110,7 +108,9 @@ principios = {
 
 **Inglés B2 · Disponible para prácticas remotas y presenciales · Bogotá, Colombia**
 
-*"Construye cosas que resuelvan problemas reales, o no las construyas."*
+*"First, solve the problem. Then, write the code."
+
+— John Johnson"*
 
 </div>
 
