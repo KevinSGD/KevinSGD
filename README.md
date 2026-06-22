@@ -80,14 +80,6 @@ Aplicación web completamente autónoma con buscador reactivo y autocompletado l
 
 ---
 
-### 📊 OptiLab — Optimizador de Horarios Académicos
-> *Optimización combinatoria · Python · OR-Tools*
-
-Sistema de satisfacción de restricciones (CSP) que genera automáticamente horarios académicos libres de conflictos, considerando disponibilidad docente, aulas y franjas horarias de forma simultánea. Redujo un proceso manual de varias horas a segundos de ejecución automática.
-
-
----
-
 ## Principios con los que trabajo
 
 ```python
@@ -106,9 +98,9 @@ principios = {
 
 <div align="center">
 
-![Estadísticas de Kevin](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&locale=es)
+![Estadísticas de Kevin](https://github-readme-stats.vercel.app/api?username=KevinSGD&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&locale=es)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&locale=es)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSGD&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&locale=es)
 
 </div>
 
