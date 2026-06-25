@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Kevin%20Steve%20Garzón%20Díaz&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Architect%20%7C%20AI-Augmented%20Developer&descSize=16&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Kevin%20Steve%20Garzón%20Díaz&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Ingeniero%20de%20Software%20%7C%20Arquitectura%20Backend%20%7C%20Desarrollo%20Aumentado%20con%20IA&descSize=16&descAlignY=58&animation=fadeIn" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Transforming+complex+logic+into+clean%2C+scalable+systems;Clean+Architecture+%7C+FastAPI+%7C+Spring+Boot+%7C+Vue+3;Building+production-grade+software+with+AI+collaboration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Transformando+lógica+compleja+en+código+limpio+y+escalable;Clean+Architecture+%7C+FastAPI+%7C+Spring+Boot+%7C+Vue+3;Construyendo+software+de+calidad+profesional+con+IA)](https://git.io/typing-svg)
 
 <br/>
 
-![7th Semester](https://img.shields.io/badge/Software_Engineering-7th_Semester-6366F1?style=for-the-badge&logo=academia&logoColor=white)
+![Séptimo Semestre](https://img.shields.io/badge/Ingeniería_de_Software-7mo_Semestre-6366F1?style=for-the-badge&logo=academia&logoColor=white)
 ![UMB](https://img.shields.io/badge/Universidad_Manuela_Beltrán-Bogotá-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
 ![Bogotá](https://img.shields.io/badge/📍_Bogotá,_Colombia-1e1e2e?style=for-the-badge&logoColor=white)
 
@@ -16,247 +16,192 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Pokédex_App-6366F1?style=for-the-badge&logo=netlify&logoColor=white)](https://pokedexestrategica.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Garzón-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-garzon07560/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevin.garzon@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-KevinSGD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KevinSGD)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=KevinSGD&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/KevinSGD?style=for-the-badge&color=7C3AED&label=FOLLOWERS&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/KevinSGD?style=for-the-badge&color=4F46E5&label=STARS&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=KevinSGD&style=for-the-badge&color=6366F1&label=VISITAS+AL+PERFIL)
+![GitHub Followers](https://img.shields.io/github/followers/KevinSGD?style=for-the-badge&color=7C3AED&label=SEGUIDORES&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/KevinSGD?style=for-the-badge&color=4F46E5&label=ESTRELLAS&logo=github)
 
 </div>
 
 ---
 
-## ◈ About
+## ◈ Sobre mí
 
-I am a **Software Engineering student** in my 7th semester, specializing in **backend architecture**, **clean code principles**, and **AI-augmented development workflows**. I don't just write code that works — I architect systems that are testable, maintainable, and built to scale under real production demands.
+Soy estudiante de séptimo semestre de **Ingeniería de Software** con enfoque en **arquitectura backend**, **principios de código limpio** y **desarrollo aumentado con IA**. No solo escribo código que funciona — diseño sistemas testeables, mantenibles y construidos para escalar bajo demandas reales de producción.
 
-My highest-impact zone sits at the intersection of algorithmic thinking and pragmatic engineering: from constraint satisfaction optimization models to high-coverage asynchronous API design. I leverage **Claude Code** as a core part of my development workflow — applying agentic collaboration to ship professional-quality software faster and at a higher standard.
+Mi zona de mayor impacto está en la intersección entre el pensamiento algorítmico y la ingeniería práctica: desde modelos de optimización por restricciones hasta diseño de APIs asíncronas con alta cobertura de pruebas. Utilizo **Claude Code** como parte central de mi flujo de trabajo, aplicando colaboración agéntica para construir software de calidad profesional con mayor velocidad y estándares más altos.
 
-I approach every system design decision with a product engineering mindset: understanding the problem space first, modeling it correctly, then executing with precision.
+Abordo cada decisión de diseño de sistemas con una mentalidad de ingeniería de producto: entender el problema primero, modelarlo correctamente y ejecutar con precisión.
 
 ```yaml
-Focus Areas:
-  - Backend Systems & API Architecture
-  - Clean Architecture & Domain-Driven Design
-  - Test-Driven Development & High Coverage Suites
-  - AI-Collaborative Engineering (Claude Code)
-  - Full-Stack Development (FastAPI · Spring Boot · Vue 3)
+Áreas de enfoque:
+  - Sistemas Backend y Arquitectura de APIs
+  - Clean Architecture y Diseño Orientado al Dominio
+  - Desarrollo Guiado por Pruebas (TDD) y Alta Cobertura
+  - Ingeniería con Colaboración IA (Claude Code)
+  - Desarrollo Full-Stack (FastAPI · Spring Boot · Vue 3)
 
-Open To:
-  - First professional internship (práctica profesional)
-  - Remote and on-site roles in Bogotá
-  - Backend-focused or Full-Stack engineering positions
+Disponible para:
+  - Primera práctica profesional
+  - Roles remotos y presenciales en Bogotá
+  - Posiciones Backend o Full-Stack
 ```
 
 ---
 
-## ◈ Tech Stack
+## ◈ Stack Tecnológico
 
 <div align="center">
 
-### Languages
+### Lenguajes
 [![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,kotlin&theme=dark)](https://skillicons.dev)
 
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=vue,html,css,tailwind,figma&theme=dark)](https://skillicons.dev)
 
-### Backend & Databases
+### Backend y Bases de Datos
 [![My Skills](https://skillicons.dev/icons?i=fastapi,spring,nodejs,postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
 
-### Cloud, DevOps & Tooling
+### Cloud, DevOps y Herramientas
 [![My Skills](https://skillicons.dev/icons?i=docker,linux,git,github,androidstudio,bash&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## ◈ AI / ML Expertise
+## ◈ Experticia Técnica
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| **AI-Augmented Development** | ████████░░ Advanced | Claude Code agentic workflows, prompt engineering for code generation |
-| **Constraint Satisfaction** | ████████░░ Advanced | OR-Tools, MILP modeling, Branch & Bound, schedule optimization |
-| **Operations Research** | ███████░░░ Proficient | Linear programming, transportation models, Postobón logistics optimization |
-| **Numerical Methods** | ███████░░░ Proficient | LU decomposition, Gauss-Seidel, Lagrange interpolation, Euler/Heun methods |
-| **API Intelligence** | ████████░░ Advanced | Async integration patterns, local caching layers, external API orchestration |
-| **Cloud Architecture** | █████░░░░░ Developing | AWS fundamentals, cloud-native deployment, containerized services |
+| Dominio | Nivel | Detalle |
+|---------|-------|---------|
+| **Desarrollo con IA** | ████████░░ Avanzado | Flujos agénticos con Claude Code, ingeniería de prompts para generación de código |
+| **Satisfacción de Restricciones** | ████████░░ Avanzado | OR-Tools, modelado MILP, Branch & Bound, optimización de horarios |
+| **Investigación Operativa** | ███████░░░ Competente | Programación lineal, modelos de transporte, optimización logística |
+| **Métodos Numéricos** | ███████░░░ Competente | Descomposición LU, Gauss-Seidel, interpolación de Lagrange, Euler/Heun |
+| **Diseño de APIs** | ████████░░ Avanzado | Patrones async, capas de caché local, orquestación de servicios externos |
+| **Contenedorización** | ██████░░░░ En desarrollo | Docker, entornos de desarrollo containerizados, despliegue en la nube |
 
 </div>
 
 ---
 
-## ◈ Featured Projects
+## ◈ Proyectos Destacados
 
 <details>
-<summary><strong>🏆 Pokemon Tournament Management System — Enterprise API</strong></summary>
+<summary><strong>🏆 Sistema de Gestión de Torneos Pokémon — API Empresarial</strong></summary>
 
 <br/>
 
-A production-grade REST API architected under strict **Clean Architecture** principles, built with Python and FastAPI. The system integrates asynchronously with the PokéAPI, implements local caching for performance isolation, generates algorithmic single-elimination brackets, and ships a fully automated test suite achieving **94%+ coverage**.
+API REST de calidad profesional construida bajo principios estrictos de **Clean Architecture** con Python y FastAPI. El sistema integra de forma asíncrona la PokéAPI con caché local para aislamiento de latencia, genera brackets algorítmicos de eliminación directa y cuenta con una suite de pruebas completamente automatizada con **94%+ de cobertura**.
 
-This project demonstrates real enterprise engineering discipline: layered architecture with clear dependency inversion, async I/O for external service calls, a repository pattern over SQLAlchemy 2.0, containerized deployment via Docker, and conventional commit history throughout.
+Demuestra disciplina de ingeniería empresarial real: arquitectura en capas con inversión de dependencias, I/O asíncrono para llamadas a servicios externos, patrón repositorio sobre SQLAlchemy 2.0, despliegue containerizado con Docker e historial de commits convencionales.
 
-| Attribute | Details |
-|-----------|---------|
+| Atributo | Detalle |
+|----------|---------|
 | **Stack** | Python · FastAPI · SQLAlchemy 2.0 · PostgreSQL · Docker · pytest |
-| **Scale** | Multi-entity domain model with async PokéAPI integration and local cache |
-| **Performance** | Async I/O throughout, local caching layer isolating external latency |
-| **Security** | Role-based access patterns, input validation via Pydantic schemas |
-| **Testing** | 94%+ automated test coverage, full pytest suite |
-| **Architecture** | Clean Architecture, Repository Pattern, Dependency Inversion |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KevinSGD/pokemon-tournament-api) |
+| **Escala** | Modelo de dominio multi-entidad con integración asíncrona a PokéAPI |
+| **Rendimiento** | I/O async en toda la aplicación, caché local que aísla la latencia externa |
+| **Seguridad** | Patrones RBAC, validación de entrada con esquemas Pydantic |
+| **Pruebas** | 94%+ de cobertura automatizada, suite completa con pytest |
+| **Arquitectura** | Clean Architecture · Patrón Repositorio · Inversión de Dependencias |
+| **Repositorio** | [![GitHub](https://img.shields.io/badge/Ver_Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KevinSGD/pokemon-tournament-api) |
 
 </details>
 
 <details>
-<summary><strong>⚡ OptiLab — Constraint Satisfaction Schedule Optimizer</strong></summary>
+<summary><strong>⚡ OptiLab — Optimizador de Horarios por Satisfacción de Restricciones</strong></summary>
 
 <br/>
 
-A constraint satisfaction system built with Python and **Google OR-Tools** to solve real-world scheduling optimization problems. The engine models competing constraints — resource availability, time windows, dependency chains — and finds optimal or near-optimal assignments efficiently, applying algorithmic approaches from operations research coursework to a practical engineering tool.
+Sistema de satisfacción de restricciones construido con Python y **Google OR-Tools** para resolver problemas reales de optimización de horarios. El motor modela restricciones competidoras — disponibilidad de recursos, ventanas de tiempo, cadenas de dependencias — y encuentra asignaciones óptimas o cercanas al óptimo, aplicando enfoques algorítmicos de investigación operativa a una herramienta de ingeniería práctica.
 
-Demonstrates deep understanding of combinatorial optimization, problem modeling, and the gap between theoretical formulation and implementation performance in production scenarios.
+Demuestra comprensión profunda de optimización combinatoria, modelado de problemas y la brecha entre la formulación teórica y el rendimiento de implementación en producción.
 
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | Python · OR-Tools · Constraint Programming |
-| **Scale** | Handles multi-variable scheduling with competing constraint sets |
-| **Performance** | OR-Tools CP-SAT solver with configurable time limits |
-| **Domain** | Operations Research · Combinatorial Optimization |
-| **Impact** | Bridges academic MILP theory with applied engineering tooling |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KevinSGD) |
+| Atributo | Detalle |
+|----------|---------|
+| **Stack** | Python · OR-Tools · Programación por Restricciones |
+| **Escala** | Maneja scheduling multivariable con conjuntos de restricciones competidoras |
+| **Rendimiento** | Solver CP-SAT de OR-Tools con límites de tiempo configurables |
+| **Dominio** | Investigación Operativa · Optimización Combinatoria |
+| **Repositorio** | [![GitHub](https://img.shields.io/badge/Ver_Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KevinSGD) |
 
 </details>
 
 <details>
-<summary><strong>🌐 Pokédex Estratégica & Damage Simulator — Kanto Edition</strong></summary>
+<summary><strong>🌐 Pokédex Estratégica & Simulador de Daño — Edición Kanto</strong></summary>
 
 <br/>
 
-A fully self-contained static web application built with **Vue 3** and deployed on Netlify. Features a reactive search engine with local autocompletion across all 151 Generation I Pokémon, and a competitive damage calculator processing elemental type matchups, base stats, and move power in real time — entirely client-side with zero backend dependency.
+Aplicación web completamente autónoma construida con **Vue 3** y desplegada en Netlify. Cuenta con un buscador reactivo con autocompletado local para los 151 Pokémon de primera generación, y una calculadora de daño competitivo que procesa tipos elementales, estadísticas base y potencia de movimientos en tiempo real — completamente del lado del cliente, sin dependencia de backend.
 
-Demonstrates frontend architecture competency: reactive state management, component design, performance optimization through local data indexing, and mobile-first responsive layout with Tailwind CSS.
+Demuestra competencia en arquitectura frontend: gestión de estado reactivo, diseño de componentes, optimización de rendimiento mediante indexación local de datos y diseño mobile-first con Tailwind CSS.
 
-| Attribute | Details |
-|-----------|---------|
+| Atributo | Detalle |
+|----------|---------|
 | **Stack** | Vue 3 · JavaScript · Tailwind CSS · Netlify |
-| **Scale** | 151 Pokémon dataset, fully local, zero-latency interactions |
-| **Performance** | 100% static · No API calls at runtime · Instant search |
-| **Architecture** | Component-based SPA · Reactive state · Mobile-first |
-| **Impact** | Live production deployment accessible globally |
-| **Demo** | [![Live](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=netlify&logoColor=white)](https://pokedexestrategica.netlify.app/) |
+| **Escala** | Dataset de 151 Pokémon, 100% local, interacciones sin latencia |
+| **Rendimiento** | 100% estático · Sin llamadas API en runtime · Búsqueda instantánea |
+| **Arquitectura** | SPA basada en componentes · Estado reactivo · Mobile-first |
+| **Demo** | [![Live](https://img.shields.io/badge/Demo_en_Vivo-00C853?style=flat-square&logo=netlify&logoColor=white)](https://pokedexestrategica.netlify.app/) |
 
 </details>
 
 <details>
-<summary><strong>📊 MILP Optimization — Coworking Space Resource Allocation (Research)</strong></summary>
+<summary><strong>📊 Optimización MILP — Asignación de Recursos en Espacio de Coworking (Investigación)</strong></summary>
 
 <br/>
 
-A scientific research project applying **Mixed Integer Linear Programming** (Branch & Bound) to solve a real resource allocation problem at Coffice Bogotá, a coworking space in the city. Co-authored as a formal academic paper under faculty supervision, compliant with the *Ingeniería y Universidad* journal format (Pontificia Universidad Javeriana), with IEEE citations and bilingual delivery.
+Proyecto de investigación científica que aplica **Programación Lineal Entera Mixta** (Branch & Bound) para resolver un problema real de asignación de recursos en Coffice Bogotá. Co-autorado como artículo académico formal bajo supervisión docente, con formato compatible con la revista *Ingeniería y Universidad* de la Pontificia Universidad Javeriana, citas IEEE y entrega bilingüe.
 
-Demonstrates the ability to take an unstructured real-world problem, model it as a formal mathematical program, implement and verify the solution, and communicate results to a technical academic audience.
+Demuestra la capacidad de tomar un problema real no estructurado, modelarlo como un programa matemático formal, implementar y verificar la solución, y comunicar los resultados a una audiencia académica técnica.
 
-| Attribute | Details |
-|-----------|---------|
-| **Stack** | MILP · Branch & Bound · Linear Programming · Python |
-| **Domain** | Operations Research · Scientific Writing |
-| **Format** | IEEE citation · Journal-compliant DOCX · Bilingual (EN/ES) |
-| **Scope** | Full formulation, implementation, results, and academic exposition |
-| **Collaboration** | 3-person team under faculty advisor |
+| Atributo | Detalle |
+|----------|---------|
+| **Stack** | MILP · Branch & Bound · Programación Lineal · Python |
+| **Dominio** | Investigación Operativa · Redacción Científica |
+| **Formato** | Citación IEEE · DOCX compatible con journal · Bilingüe (ES/EN) |
+| **Alcance** | Formulación completa, implementación, resultados y exposición académica |
+| **Colaboración** | Equipo de 3 personas bajo asesoría docente |
+
+</details>
+
+<details>
+<summary><strong>🎓 TesisOMuerte — Plataforma de Gestión (Proyecto de Grado)</strong></summary>
+
+<br/>
+
+Proyecto de grado desarrollado en equipo de tres personas con FastAPI y Vue 3, actualmente en sprint activo para resolver observaciones de jurado. Incluye rediseño completo de base de datos, sistema de roles y permisos (RBAC), refactorización de componentes Vue, exportación a XLSX y despliegue en la nube.
+
+Gestión del proyecto estructurada en Notion con backlog de 26 tareas y ruta crítica día a día. Rol de líder técnico en arquitectura backend y coordinación de sprint.
+
+| Atributo | Detalle |
+|----------|---------|
+| **Stack** | Python · FastAPI · Vue 3 · PostgreSQL · Docker |
+| **Arquitectura** | Rediseño de BD normalizada · RBAC · APIs REST documentadas |
+| **Funcionalidades** | Exportación XLSX · Fuentes de datos dinámicas · Despliegue cloud |
+| **Gestión** | Notion con backlog priorizado y ruta crítica de 2 semanas |
+| **Rol** | Líder técnico backend + coordinación de equipo |
 
 </details>
 
 ---
 
-## ◈ Experience
-
-**Full-Stack Engineering Intern** *(Seeking — Target: 2025)*
-`Práctica Profesional` · Bogotá, Colombia · Remote / On-site
-
-Actively pursuing first professional internship with focus on backend systems and full-stack development. 7 semesters of applied academic engineering, 3+ production-grade projects, and professional-grade tooling literacy.
-
-- Designed and built REST APIs with FastAPI and Spring Boot under Clean Architecture
-- Developed and maintained Vue 3 frontend applications with Tailwind CSS
-- Applied Test-Driven Development with 94%+ coverage on production projects
-- Implemented Docker-based containerized development environments
-- Collaborated on scientific research applying MILP optimization to real business problems
-- Integrated AI-augmented development workflows using Claude Code
-
-`FastAPI` `Spring Boot` `Vue 3` `PostgreSQL` `Docker` `Python` `Java` `Clean Architecture` `TDD`
-
----
-
-**Academic Software Engineering Projects** · Universidad Manuela Beltrán
-`2022 – Present` · Bogotá, Colombia
-
-Seven semesters of applied engineering covering backend systems, database design, mobile development, numerical methods, operations research, and algorithm design. Consistently applied professional engineering standards — conventional commits, layered architecture, automated testing — across academic deliverables.
-
-- Built enterprise-grade APIs and tournament management systems as capstone projects
-- Solved and documented numerical methods implementations (LU, Gauss-Seidel, Lagrange, Euler)
-- Modeled and solved linear programming transportation problems applied to real companies
-- Delivered scientific article on MILP optimization published in academic exposition format
-- Led graduation project (TesisOMuerte) as technical lead on FastAPI + Vue 3 platform
-
-`Python` `Java` `Node.js` `FastAPI` `MySQL` `PostgreSQL` `Operations Research` `Scientific Writing`
-
----
-
-## ◈ Achievements
+## ◈ Logros
 
 <div align="center">
 
-| Recognition | Details |
-|-------------|---------|
-| **94%+ Test Coverage** | Achieved on Pokemon Tournament API — enterprise-grade automated suite |
-| **Scientific Publication** | Co-authored MILP research paper in IEEE format for academic journal |
-| **Production Deployment** | Live Pokédex app deployed on Netlify, accessible globally |
-| **B2 English Proficiency** | Professional-level written and spoken English for technical contexts |
-| **AI-Augmented Engineering** | Claude Code workflow integration for professional-grade velocity |
-| **Full Academic OR Track** | Completed LP, MILP, Branch & Bound, and transportation model coursework |
-
-</div>
-
----
-
-## ◈ Certifications
-
-<div align="center">
-
-**AWS**
-
-![AWS Cloud](https://img.shields.io/badge/AWS_Cloud_Computing-In_Progress-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Python](https://img.shields.io/badge/Cloud_Computing_2_with_Python-Roadmap-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Java](https://img.shields.io/badge/Java_Fundamentals-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**Cisco**
-
-![Networking](https://img.shields.io/badge/Networking_Basics-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-**Anthropic**
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-Agentic_Workflows-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-
-</div>
-
----
-
-## ◈ Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-KevinSGD-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-KevinSGD-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-KevinSGD-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-KevinSGD-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+| Reconocimiento | Detalle |
+|----------------|---------|
+| **94%+ Cobertura de Pruebas** | Logrado en el API de Torneos Pokémon — suite automatizada de nivel empresarial |
+| **Artículo Científico** | Co-autor de paper MILP en formato IEEE para revista académica |
+| **Despliegue en Producción** | Pokédex en vivo en Netlify, accesible globalmente |
+| **Inglés B2** | Nivel profesional escrito y oral para contextos técnicos |
+| **Ingeniería con IA** | Integración de flujos agénticos con Claude Code a escala profesional |
+| **Track Completo de IO** | Completado PL, MILP, Branch & Bound y modelos de transporte |
 
 </div>
 
@@ -266,20 +211,20 @@ Seven semesters of applied engineering covering backend systems, database design
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinSGD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=818CF8&icon_color=6366F1&text_color=94A3B8&ring_color=7C3AED" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSGD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&text_color=94A3B8&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinSGD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=818CF8&icon_color=6366F1&text_color=94A3B8&ring_color=7C3AED&locale=es" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinSGD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818CF8&text_color=94A3B8&langs_count=8&locale=es" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinSGD&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366F1&ring=7C3AED&fire=818CF8&currStreakLabel=818CF8&sideLabels=94A3B8&dates=64748B&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinSGD&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366F1&ring=7C3AED&fire=818CF8&currStreakLabel=818CF8&sideLabels=94A3B8&dates=64748B&currStreakNum=ffffff&sideNums=ffffff&locale=es" />
 
 </div>
 
 ---
 
-## ◈ GitHub Trophies
+## ◈ Trofeos de GitHub
 
 <div align="center">
 
@@ -289,64 +234,61 @@ Seven semesters of applied engineering covering backend systems, database design
 
 ---
 
-## ◈ Contribution Activity
+## ◈ Actividad de Contribuciones
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KevinSGD&bg_color=0d1117&color=818CF8&line=6366F1&point=7C3AED&area=true&area_color=4F46E5&hide_border=true&custom_title=Kevin's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KevinSGD&bg_color=0d1117&color=818CF8&line=6366F1&point=7C3AED&area=true&area_color=4F46E5&hide_border=true&custom_title=Gráfico%20de%20Contribuciones%20de%20Kevin)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## ◈ Contribution Snake
+## ◈ Snake de Contribuciones
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevinSGD/KevinSGD/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KevinSGD/KevinSGD/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KevinSGD/KevinSGD/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="animación snake de contribuciones" src="https://raw.githubusercontent.com/KevinSGD/KevinSGD/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
 
-## ◈ Current Focus
+## ◈ Enfoque Actual
 
 ```yaml
-learning:
-  - AWS Cloud Computing with Python (certification track)
-  - Advanced PostgreSQL — query optimization, indexing strategies
-  - Role-based access control patterns in FastAPI
-  - Cloud deployment: Render · Railway · AWS EC2
+aprendiendo:
+  - PostgreSQL avanzado — optimización de queries e indexación
+  - Patrones de control de acceso basado en roles (RBAC) en FastAPI
+  - Despliegue cloud: Render · Railway · AWS
 
-building:
-  - TesisOMuerte: graduation project (FastAPI + Vue 3 + PostgreSQL)
-  - Full database redesign with normalized schema under jury deadline
-  - RBAC user management system with audit logging
-  - XLSX export engine and dynamic data sourcing layer
+construyendo:
+  - TesisOMuerte: proyecto de grado (FastAPI + Vue 3 + PostgreSQL)
+  - Rediseño completo de BD con esquema normalizado
+  - Sistema de gestión de usuarios con RBAC y logging de auditoría
+  - Motor de exportación XLSX y fuentes de datos dinámicas
 
-exploring:
-  - Agentic AI workflows with Claude Code at professional scale
-  - Clean Architecture applied to Vue 3 component systems
-  - Containerized cloud deployment pipelines
+explorando:
+  - Flujos agénticos con Claude Code a escala profesional
+  - Clean Architecture aplicada a sistemas de componentes Vue 3
+  - Pipelines de despliegue containerizado en la nube
 
-open_to:
-  - First professional internship (práctica profesional)
-  - Backend or Full-Stack engineering positions
-  - Remote and on-site roles in Bogotá, Colombia
-  - Open source collaboration on Python or Java projects
+disponible_para:
+  - Primera práctica profesional (Full-Stack / Backend)
+  - Roles remotos y presenciales en Bogotá, Colombia
+  - Colaboración en proyectos open source Python o Java
 ```
 
 ---
 
-## ◈ Connect
+## ◈ Conectar
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevin.garzon@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-garzon07560/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KevinSGD)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=netlify&logoColor=white)](https://pokedexestrategica.netlify.app/)
@@ -362,4 +304,3 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" />
 
 </div>
-
